@@ -1,6 +1,6 @@
 # Zomato_case_Study
 Below are the case statments that i have worked on:
-1. 1. what is the totoal amaount each customer spent on the zomato
+1. 1. what is the totoal amaount each customer spent on the zomato </br>
 2.How many days each customer visited zomato
 3.What was the first purchased by each customers?
 4.what is the most purchased item on the menu and how many times was it purchased by all customers?
